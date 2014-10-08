@@ -8,4 +8,4 @@ Args:
 * read threads count (equals write thread count, default 3);
 
 
-It will print input array sum and output sum
+Result: input array sum, output array sum
